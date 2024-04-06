@@ -1,0 +1,13 @@
+{
+    "code-runner.customCommand": "clear; go run runMe/main.go",
+    "cSpell.words": [
+        "bubbletea",
+        "charmbracelet",
+        "GLWT",
+        "keypress",
+        "lipgloss",
+        "Liscence",
+        "nasoooor",
+        "textinput"
+    ]
+}
